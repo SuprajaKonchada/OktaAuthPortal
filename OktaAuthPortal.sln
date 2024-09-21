@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OktaAuthPortal", "OktaAuthPortal\OktaAuthPortal.csproj", "{86ED6B58-59CD-4B57-9BD7-8E97BA093068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86ED6B58-59CD-4B57-9BD7-8E97BA093068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ED6B58-59CD-4B57-9BD7-8E97BA093068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ED6B58-59CD-4B57-9BD7-8E97BA093068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ED6B58-59CD-4B57-9BD7-8E97BA093068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909AC501-C62C-4C1A-8D54-CBDFEA83B70C}
+	EndGlobalSection
+EndGlobal
